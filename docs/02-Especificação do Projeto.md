@@ -89,11 +89,11 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Luis Felipe| ter a opção de informar sua localização instantanea e pesquisar uma lista de produtos próximo da mesma| que quando quiser, em qualquer lugar com rede de dados, pesquisar preços de um conjunto de produtos|
-|Luis Felipe| ter a opção de compartilhar a lista criada de produtos| compartilhar preço da lista detalhadamento com um grupo de amigos(as) ou os pais|
+|Luis Felipe| ter a opção de compartilhar a lista criada de produtos| compartilhar detalhadamente o preço de cada produto da lista com um grupo de amigos(as) ou os pais|
 |Maria de Fátima| receber produtos similares na pesquisa, caso não seja encontrado o produto requerido| que a pesquisa retorne o maior número de produtos listados|
 |Maria de Fátima| ter a opção de criar uma lista favorita de produtos e marcá-los no momento da compra a medida que forem sendo inseridos no carrinho de compras| que possa marcar os produtos já inseridos no carrinho de compras no supermercado|
 |Patrícia Silva| ter a opção de criar uma lista favorita de produtos| que possa escolher o prestador de serviço que melhor se adeque a minha necessidade|
-|Patrícia Silva| ter a opção de compartilhar a lista criada de produtos| compartilhar preço da lista detalhadamente com um grupo de amigos(as) ou familiares|
+|Patrícia Silva| ter a opção de compartilhar a lista criada de produtos| compartilhar detalhadamente o preço de cada produto da lista com um grupo de amigos(as) ou familiares|
 |Tereza Aparecida| ter a opção de encontrar produtos de menor preço próximo a sua residência| que quando necessário eu possa consultar preço de produtos próximo a minha residência|
 |Rodrigo Machado| ter a opção de preencher a localização de seus estabelecimentos| atrair/captar clientes próximos a seus estabelecimentos|
 |Rodrigo Machado| ter a opção de publicar o preço dos produtos de seu estabelecimento| divulgar seu estabelecimento e produtos em uma plataforma online|
