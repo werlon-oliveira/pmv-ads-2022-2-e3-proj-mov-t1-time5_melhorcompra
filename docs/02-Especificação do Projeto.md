@@ -84,21 +84,19 @@ Sabemos que um dos maiores gastos mensais das pessoas é sua compra mensal/seman
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Luis Felipe| ter a opção de informar se preciso de ajuda para descarregar os itens que serão entregues| que quando a entrega for feita, o prestador de serviço já esteja ciente de que será necessário fazer o descarregamento|
+|Luis Felipe| ter a opção de compartilhar a lista criada de produtos| que quando a entrega for feita, o prestador de serviço já realize a montagem do móvel|
+|Maria de Fátima| receber produtos similares na pesquisa, caso não seja encontrado o produto requerido| que a pesquisa retorne o maior número de produtos listados|
+|Maria de Fátima| ter a opção de criar uma lista favorita de produtos e marcá-los no momento da compra a medida que forem sendo inseridos no carrinho de compras| que possa marcar os produtos já inseridos no carrinho de compras no supermercado|
+|Patrícia Silva| ter a opção de criar uma lista favorita de produtos| que possa escolher o prestador de serviço que melhor se adeque a minha necessidade|
+|Patrícia Silva| ter a opção de compartilhar a lista criada de produtos| compartilhar preço da lista detalhadamento com um grupo de amigos(as) ou familiares|
+|Tereza Aparecida| ter a opção de encontrar produtos de menor preço próximo a sua residência| que quando necessário eu possa consultar preço de produtos próximo a minha residência|
+|Rodrigo Machado| ter a opção de preencher a localização de seus estabelecimentos| atrair/captar clientes próximos a seus estabelecimentos|
+|Rodrigo Machado| ter a opção de publicar o preço dos produtos de seu estabelecimento| divulgar seu estabelecimento e produtos em uma plataforma online|
 
 ## Modelagem do Processo de Negócio 
 
