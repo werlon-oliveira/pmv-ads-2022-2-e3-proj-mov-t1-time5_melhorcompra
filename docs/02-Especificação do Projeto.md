@@ -2,7 +2,8 @@
 
 
 
-Sabemos que um dos maiores gastos mensais das pessoas é sua compra mensal/semanal, até porque é indispensável o alimento diário, porém os usuários enfrentam um grande problema ao encontrar um supermercado com o  melhor preço para fazer suas compras, principalmente com o preço das coisas aumentando cada vez mais. É pensando nisso que criamos esse projeto, um aplicativo que mostra aos usuários o lugar com o melhor preço para fazer suas compras, e assim ter a oportunidade de diminuir nos gastos. 
+Sabemos que um dos maiores gastos mensais das pessoas é sua compra mensal/semanal, até porque é indispensável o alimento diário, porém os usuários enfrentam um grande problema ao encontrar um supermercado com o  melhor preço para fazer suas compras, principalmente com o preço das coisas aumentando cada vez mais. É pensando nisso que criamos esse projeto, um aplicativo que mostra aos usuários o lugar com o melhor preço para fazer suas compras, e assim ter a oportunidade de diminuir nos gastos.
+
 ## Personas
 
 ## Luis Felipe
@@ -18,77 +19,68 @@ Sabemos que um dos maiores gastos mensais das pessoas é sua compra mensal/seman
 
 | **Frustações:**| **Hobbies, História:** |
 | --- | --- |
-| Dificuldade em encontrar uma pessoa que faça este tipo de serviço quando preciso | Viajar, andar de bicicleta, jogar vídeo game, ler mangás, brincar com os gatos, fazer trilha e cachoeira |
-| Valor do serviço muito alto | - |
-| Os móveis estragaram durante a mudança | - |
-| Falta de disponibilidade do prestador de serviço para auxiliar no descarregamento | - |
+| Gastar um tempo longo para pesquisar promoções de diversos produtos, tendo em vista que depende do dinheiro dos pais para adquiri-los. | Andar de bicicleta, jogar vídeo game, ler mangás, brincar com os cachorros, fazer trilha e cachoeira. |
 
-
-## Maria Marta
+## Maria de Fátima
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
-| Idade: 68 anos | Globo Play | Já utilizou várias vezes o serviço de carreto para transportar materiais de construção |
-| Estado Civil: separada judicialmente | WhatsApp | Já utilizou duas vezes o serviço de mudança, pois morava de aluguel e teve que mudar de casa |
-| Naturalidade: Belo Horizonte, MG | Uber | Gostaria que um site para solicitação de serviços de carreto ou mudança tivesse o nome do motorista que fosse fazer o carreto com a foto dele, nota de avaliação do serviço, um sistema simples e fácil de mexer que mostre a rota do motorista enquanto ele se dirige até a casa e mostrando o horário que ele ia chegar |
-| Cidade em que reside atualmente: Belo Horizonte, MG | Facebook | - |
-| Formação: Grau técnico | Youtube | - |
-| Ocupação: aposentada | - | - |
+| Idade: 50 anos | TV aberta | Anota promoções de produtos em comerciais de TV. |
+| Estado Civil: Casada | WhatsApp | Guarda folhetos de supermercados para consulta de preços de produtos. |
+| Naturalidade: Belo Horizonte, MG | Facebook | Busca produtos em oferta na internet em empresas tradicionais do ramo varejista. |
+| Tipo de moradia atual: casa própria | Youtube|Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua residência com menor preço. |
+| Cidade em que reside atualmente: Belo Horizonte, MG | Facebook | Recebe de amigos (as) anúncios de produtos em promoção pelo whatsapp. |
+| Formação: Ensino superior | - | Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua residência com menor preço. |
+| Ocupação: Professora aposentada | - | - |
 
 | **Frustações:**| **Hobbies, História:** |
 | --- | --- |
-| Preço. Uns cobram um preço muito alto em relação a outros | Colecionar suculentas, cuidar de plantas, fazer caminhada e viajar |
-| Os móveis estragaram durante a mudança | - |
+| Controlar junto com seu marido a lista de compras no supermercado, precisando às vezes retirar produtos do carrinho de compras quando o valor excede ao que eles podem gastar. | Cuidar de plantas, leitura, assistir TV e filmes, visitar familiares e amigos (as). |
+| - | - |
 
-
-## Milena Santos
+## Patrícia Silva
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
-| Idade: 39 anos | WhatsApp | Já utilizou duas vezes o serviço de mudança |
-| Estado Civil: Casada | Instagram | Gostaria de ter maior facilidade em encontrar para encontrar uma pessoa ou empresa que realize o serviço de mudança |
-| Naturalidade:Brumado, BA | Google | - |
-| Tipo de moradia atual: casa | - | - |
-| Cidade em que reside atualmente: Belo Horizonte, MG | - | - |
-| Formação: 8° Série | - | - |
-| Ocupação: Serviços Gerais | - | - |
+| Idade: 35 anos | WhatsApp | Utiliza ferramentas de busca na internet e no smartphone para encontrar produtos em promoção. |
+| Estado Civil: Casada | Instagram | Compra produtos em empresas tradicionais do ramo varejista com cupons promocionais. |
+| Naturalidade:São Paulo, SP | Google | Cria alertas de produtos em sites informando o preço ideal. |
+| Tipo de moradia atual: Apartamento | Facebook | Participa de grupos no whatsapp com amigos(as) para compra coletiva em busca preços menores. |
+| Cidade em que reside atualmente: São Paulo, SP | - | Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua localidade com menor preço. |
+| Formação: Graduação em Ciencias Contábeis | - | - |
+| Ocupação: Analista Tributária | - | - |
 
 | **Frustações:**| **Hobbies, História:** |
 | --- | --- |
-| Carregar os móveis | Viajar, dançar, cuidar da horta, sair para comer e beber, além de curtir a família (tenho 2 filhos, uma neta, três cachorros e uma calopsita)|
+| Ter mais tempo para aproveitar com família e amigos. | Viajar, dançar, confraternizar amigos(as), além de curtir a família (tenho 2 filhos). |
 
-
-## Rafaela Souza
+## Tereza Aparecida
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
-| Idade: 27 anos | Netflix | Já utilizou serviço de carreto 5 vezes para levar móveis de uma casa para outra |
-| Estado Civil: solteira | WhatsApp | Gostaria que um site para solicitação de serviços de carreto ou mudança tivesse a possibilidade de agendamento prévio de serviço ou contratação num modelo fast (mesmo cm um preço mais alto) para casos de emergência; avaliação de outros clientes sobre o serviço prestado; possibilidade de realizar filtro cm base no tamanho do veículo, bairro, preço e avaliações |
-| Naturalidade: Belo Horizonte, MG | Amazon Prime | - |
-| Tipo de moradia atual: apartamento próprio | Deezer | - |
-| Cidade em que reside atualmente: Belo Horizonte, MG | Instagram | - |
-| Formação: Superior Completo | Linkedin | - |
-| Ocupação: QA Analyst| Telegram | - |
+| Idade: 60 anos | TV aberta | Não utiliza ferramentas de busca na internet e nem no smartphone para encontrar produtos em promoção. |
+| Estado Civil: viúva | WhatsApp | Realiza compras em estabelecimentos de bairro, próximos de sua residência. |
+| Naturalidade: Belo Horizonte, MG | Youtube | Utiliza smartphone apenas para conversar com amigos(as) e familiares. |
+| Tipo de moradia atual: casa própria, mora com um filho adulto | Facebook | Gostaria de uma maneira simples de pesquisar preços de produtos próximo de sua residência. |
+| Cidade em que reside atualmente: Betim, MG | - | - |
+| Formação: Ensino Médio | Linkedin | - |
+| Ocupação: Dona de casa, pensionista| - | - |
 
 | **Frustações:**| **Hobbies, História:** |
 | --- | --- |
-| Dificuldade em contratar o serviço de forma rápida | Viajar, ler e assistir séries |
-| Dificuldade em encontrar a oferta dos serviços (poucas informações disponibilizadas na internet e redes sociais), impossibilitando assim uma comparação mais assertiva de preços e avaliações de outros clientes | - |
-| Móveis acondicionados de maneira incorreta durante a mudança veículo com espaço insuficiente para o transporte de todos os móveis e objetos | - |
+| Dificuldade de locomoção para lugares distantes. | Cuidar de suas plantas, cachorros, assistir TV. |
 
-
-## Thamara Machado
+## Rodrigo Machado
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
-| Idade: 29 anos | Youtube | Já utilizou serviço de carreto para mudança de casa |
-| Estado Civil: Casada | WhatsApp | Gostaria que um site para solicitação de serviços de carreto ou mudança tivesse valor do serviço, dados do prestador do serviço, acompanhamento do trajeto e previsão do horário de chegada, possibilidade de auxílio para retirada dos móveis e de informar que será necessário subir escadas para entrega dos móveis |
-| Naturalidade: Belo Horizonte, MG | Amazon Prime | - |
-| Cidade em que reside atualmente: Belo Horizonte, MG | Instagram | - |
-| Formação: Superior em andamento | Linkedin | - |
-| Ocupação: Analista de Projetos | Uber| - |
+| Idade: 35 anos | Youtube | Expandir seu negócio em sua cidade. |
+| Estado Civil: Divorciado | WhatsApp | Pesquisa preços praticados pelos seus concorrentes. |
+| Naturalidade: Contagem, MG | - | Conseguir uma negociação melhor dos seus produtos com seus fornecedores. |
+| Tipo de moradia atual: Apartamento | - | Oferecer produtos locais com a contribuição de pequenos produtores. |
+| Cidade em que reside atualmente: Contagem, MG | Instagram | Gostaria de divulgar os preços dos seus produtos em uma plataforma online. Gostaria de atrair clientes próximos a seus estabelecimentos. |
+| Formação: Ensino Superior em Administração | Linkedin | - |
+| Ocupação: Empresário de uma pequena rede de supermercado | Uber| - |
 
 | **Frustações:**| **Hobbies, História:** |
 | --- | --- |
-| Dificuldade para encontrar um prestador de forma rápida e segura | Viajar, andar de bicicleta, andar de patins fazer trilha, cachoeira, cinema, sair para comer, curtir a família e os animais de estimação (3 gatos), cuidar de plantas e mexer com artesanato e marcenaria |
-| Falta de cuidado com os móveis, alguns chegaram a estragar | - |
-| Falta de auxílio no momento de descarregar o carreto | - |
+| Dificuldade na divulgação dos preços dos seus produtos de forma simples pelos meios de comunicação atuais. | Estudar técnicas de vendas e marketing, visitar os filhos, os pais  e familiares, viajar. |
 
 ## Histórias de Usuários
 
