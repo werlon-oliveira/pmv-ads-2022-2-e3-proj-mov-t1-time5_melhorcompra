@@ -89,7 +89,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Luis Felipe| ter a opção de informar se preciso de ajuda para descarregar os itens que serão entregues| que quando a entrega for feita, o prestador de serviço já esteja ciente de que será necessário fazer o descarregamento|
-|Luis Felipe| ter a opção de compartilhar a lista criada de produtos| que quando a entrega for feita, o prestador de serviço já realize a montagem do móvel|
+|Luis Felipe| ter a opção de compartilhar a lista criada de produtos| compartilhar preço da lista detalhadamento com um grupo de amigos(as) ou os pais|
 |Maria de Fátima| receber produtos similares na pesquisa, caso não seja encontrado o produto requerido| que a pesquisa retorne o maior número de produtos listados|
 |Maria de Fátima| ter a opção de criar uma lista favorita de produtos e marcá-los no momento da compra a medida que forem sendo inseridos no carrinho de compras| que possa marcar os produtos já inseridos no carrinho de compras no supermercado|
 |Patrícia Silva| ter a opção de criar uma lista favorita de produtos| que possa escolher o prestador de serviço que melhor se adeque a minha necessidade|
