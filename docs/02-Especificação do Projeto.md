@@ -5,19 +5,90 @@
 Sabemos que um dos maiores gastos mensais das pessoas é sua compra mensal/semanal, até porque é indispensável o alimento diário, porém os usuários enfrentam um grande problema ao encontrar um supermercado com o  melhor preço para fazer suas compras, principalmente com o preço das coisas aumentando cada vez mais. É pensando nisso que criamos esse projeto, um aplicativo que mostra aos usuários o lugar com o melhor preço para fazer suas compras, e assim ter a oportunidade de diminuir nos gastos. 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+## Luis Felipe
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 18 anos | Twitter | Utiliza ferramentas de busca na internet e no smartphone para encontrar produtos em promoção. |
+| Estado Civil: Solteiro | Youtube | Participa de comunidades na internet e no smartphone de caçadores de promoção em busca de cupons de desconto. |
+| Naturalidade: Belo Horizonte, MG | Google | Cria alertas de produtos em sites informando o preço ideal. |
+| Tipo de moradia atual: casa, Mora com os pais | Facebook|Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua residência com menor preço. |
+| Cidade em que reside atualmente: Belo Horizonte, MG | Instagram | - |
+| Formação: Ensino Médio | WhatsApp | - |
+| Ocupação: Estudante, Cursando graduação em Computação | - | - |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Dificuldade em encontrar uma pessoa que faça este tipo de serviço quando preciso | Viajar, andar de bicicleta, jogar vídeo game, ler mangás, brincar com os gatos, fazer trilha e cachoeira |
+| Valor do serviço muito alto | - |
+| Os móveis estragaram durante a mudança | - |
+| Falta de disponibilidade do prestador de serviço para auxiliar no descarregamento | - |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
+## Maria Marta
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 68 anos | Globo Play | Já utilizou várias vezes o serviço de carreto para transportar materiais de construção |
+| Estado Civil: separada judicialmente | WhatsApp | Já utilizou duas vezes o serviço de mudança, pois morava de aluguel e teve que mudar de casa |
+| Naturalidade: Belo Horizonte, MG | Uber | Gostaria que um site para solicitação de serviços de carreto ou mudança tivesse o nome do motorista que fosse fazer o carreto com a foto dele, nota de avaliação do serviço, um sistema simples e fácil de mexer que mostre a rota do motorista enquanto ele se dirige até a casa e mostrando o horário que ele ia chegar |
+| Cidade em que reside atualmente: Belo Horizonte, MG | Facebook | - |
+| Formação: Grau técnico | Youtube | - |
+| Ocupação: aposentada | - | - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Preço. Uns cobram um preço muito alto em relação a outros | Colecionar suculentas, cuidar de plantas, fazer caminhada e viajar |
+| Os móveis estragaram durante a mudança | - |
+
+
+## Milena Santos
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 39 anos | WhatsApp | Já utilizou duas vezes o serviço de mudança |
+| Estado Civil: Casada | Instagram | Gostaria de ter maior facilidade em encontrar para encontrar uma pessoa ou empresa que realize o serviço de mudança |
+| Naturalidade:Brumado, BA | Google | - |
+| Tipo de moradia atual: casa | - | - |
+| Cidade em que reside atualmente: Belo Horizonte, MG | - | - |
+| Formação: 8° Série | - | - |
+| Ocupação: Serviços Gerais | - | - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Carregar os móveis | Viajar, dançar, cuidar da horta, sair para comer e beber, além de curtir a família (tenho 2 filhos, uma neta, três cachorros e uma calopsita)|
+
+
+## Rafaela Souza
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 27 anos | Netflix | Já utilizou serviço de carreto 5 vezes para levar móveis de uma casa para outra |
+| Estado Civil: solteira | WhatsApp | Gostaria que um site para solicitação de serviços de carreto ou mudança tivesse a possibilidade de agendamento prévio de serviço ou contratação num modelo fast (mesmo cm um preço mais alto) para casos de emergência; avaliação de outros clientes sobre o serviço prestado; possibilidade de realizar filtro cm base no tamanho do veículo, bairro, preço e avaliações |
+| Naturalidade: Belo Horizonte, MG | Amazon Prime | - |
+| Tipo de moradia atual: apartamento próprio | Deezer | - |
+| Cidade em que reside atualmente: Belo Horizonte, MG | Instagram | - |
+| Formação: Superior Completo | Linkedin | - |
+| Ocupação: QA Analyst| Telegram | - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Dificuldade em contratar o serviço de forma rápida | Viajar, ler e assistir séries |
+| Dificuldade em encontrar a oferta dos serviços (poucas informações disponibilizadas na internet e redes sociais), impossibilitando assim uma comparação mais assertiva de preços e avaliações de outros clientes | - |
+| Móveis acondicionados de maneira incorreta durante a mudança veículo com espaço insuficiente para o transporte de todos os móveis e objetos | - |
+
+
+## Thamara Machado
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 29 anos | Youtube | Já utilizou serviço de carreto para mudança de casa |
+| Estado Civil: Casada | WhatsApp | Gostaria que um site para solicitação de serviços de carreto ou mudança tivesse valor do serviço, dados do prestador do serviço, acompanhamento do trajeto e previsão do horário de chegada, possibilidade de auxílio para retirada dos móveis e de informar que será necessário subir escadas para entrega dos móveis |
+| Naturalidade: Belo Horizonte, MG | Amazon Prime | - |
+| Cidade em que reside atualmente: Belo Horizonte, MG | Instagram | - |
+| Formação: Superior em andamento | Linkedin | - |
+| Ocupação: Analista de Projetos | Uber| - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Dificuldade para encontrar um prestador de forma rápida e segura | Viajar, andar de bicicleta, andar de patins fazer trilha, cachoeira, cinema, sair para comer, curtir a família e os animais de estimação (3 gatos), cuidar de plantas e mexer com artesanato e marcenaria |
+| Falta de cuidado com os móveis, alguns chegaram a estragar | - |
+| Falta de auxílio no momento de descarregar o carreto | - |
 
 ## Histórias de Usuários
 
